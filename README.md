@@ -1,1 +1,1 @@
-# Resimden-Plaka-Tespiti
+# Görüntü İşlemede OpenCV ile Resimden-Plaka-Tespiti
